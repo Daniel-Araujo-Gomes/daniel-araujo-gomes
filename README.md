@@ -2,7 +2,7 @@
 
 🤓 **Sobre mim**  
 
-Atualmente, sou **`Coordenador de Desenvolvimento`** na **ICL América do Sul S.A.**, onde lidero projetos estratégicos de tecnologia e inovação. Além disso, estou cursando uma pós-graduação em **Inteligência Artificial**, aprofundando meus conhecimentos em **machine learning, processamento de dados e automação**. Tenho experiência em gestão de equipes, arquitetura de sistemas e desenvolvimento de soluções escaláveis. Também sou o idealizador da **Rodocash**, uma plataforma de leilão de fretes que otimiza processos logísticos. Participo ativamente de desafios técnicos como o **Tech Challenge**, onde desenvolvo projetos avançados em **processamento de linguagem natural** e **análise de vídeo com IA**.
+Atualmente, sou **`Coordenador de Desenvolvimento`** na **ICL América do Sul S.A.**, onde lidero projetos estratégicos de tecnologia e inovação. Além disso, estou cursando uma pós-graduação em **Inteligência Artificial**, aprofundando meus conhecimentos em **machine learning, processamento de dados e automação**. Tenho experiência em gestão de equipes, arquitetura de sistemas e desenvolvimento de soluções escaláveis.
 
 📌 **Habilidades e Tecnologias**  
 
