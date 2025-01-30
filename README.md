@@ -18,7 +18,6 @@ Atualmente, sou **`Coordenador de Desenvolvimento`** na **ICL América do Sul S.
 
 📂 **Projetos em destaque**  
 
-- **Rodocash**: Plataforma de leilão de fretes para otimização logística.
 - **Tech Challenge - NLP**: Treinamento de modelos para responder perguntas com base em descrições de produtos.
 - **Tech Challenge - Visão Computacional**: Análise de vídeos para reconhecimento facial e detecção de emoções.
 
