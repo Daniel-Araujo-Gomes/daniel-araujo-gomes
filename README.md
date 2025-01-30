@@ -1,5 +1,10 @@
-## Hi there 👋
+## Olá eu sou o Daniel Araujo 👋
 
+<div>
+  <a href="https://github.com/daniel-araujo-gomes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel-araujo-gomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-araujo-gomes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <!--
 **Daniel-Araujo-Gomes/daniel-araujo-gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
